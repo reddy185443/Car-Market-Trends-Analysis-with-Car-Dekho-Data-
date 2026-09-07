@@ -41,7 +41,7 @@ This project analyzes the supplied Car Dekho dataset to identify patterns in use
 - `Car_Market_Trends_Analysis.ipynb` — notebook version
 - `cleaned_car_data.csv` — duplicate-cleaned dataset with derived columns
 - `charts/` — generated visualizations
-- `DIY_Project_4_Car_Market_Trends_Analysis.pptx` — completed presentation
+- `DIY_Project_Car_Market_Trends_Analysis.pptx` — completed presentation
 
 ## How to Run
 ```bash
